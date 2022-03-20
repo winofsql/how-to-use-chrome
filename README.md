@@ -8,3 +8,6 @@
 - アプリのようにアドレスバー無しで呼び出し
 
 ![image](https://user-images.githubusercontent.com/1501327/159151444-dffd53db-6a53-416e-b977-035d6e7ee80b.png)
+
+▼ アプリのように呼び出す
+![image](https://user-images.githubusercontent.com/1501327/159151474-5cd06b5e-2387-4fac-87f2-1daffd68c35a.png)
