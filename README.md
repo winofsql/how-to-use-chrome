@@ -16,3 +16,8 @@
 ![image](https://user-images.githubusercontent.com/1501327/159151561-2a94e8e6-73fc-4089-a286-fb46933cd7fe.png)
 
 ![image](https://user-images.githubusercontent.com/1501327/159151598-68dc7517-3415-47b4-87f0-f4060f55a3b3.png)
+
+- エクスポートした全体から必要な部分だけ残して保存
+- インポート
+
+![image](https://user-images.githubusercontent.com/1501327/159151794-1f3c948f-e143-4c12-87f5-ec6c2d1bd961.png)
