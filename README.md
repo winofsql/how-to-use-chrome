@@ -21,3 +21,6 @@
 - インポート
 
 ![image](https://user-images.githubusercontent.com/1501327/159151794-1f3c948f-e143-4c12-87f5-ec6c2d1bd961.png)
+
+## 共有PC でのサービスのログイン時の注意
+- シークレットモードを使う( 通常の Chrome だとログインした後、Chrome を終了させてもログアウトされない )
