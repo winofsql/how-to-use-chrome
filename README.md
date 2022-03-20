@@ -31,3 +31,9 @@
 ![image](https://user-images.githubusercontent.com/1501327/159151981-356f06be-740b-40ef-a694-ededd9dc0455.png)
 
 ![image](https://user-images.githubusercontent.com/1501327/159152023-16093034-a1bf-49af-b073-dca30767884b.png)
+
+## キャッシュの削除
+
+- CTRL + SHIFT + DEL
+
+![image](https://user-images.githubusercontent.com/1501327/159152522-3d0b96a7-31fc-43f3-917d-2b6b98045a28.png)
