@@ -25,3 +25,5 @@
 ## 共有PC でのサービスのログイン時の注意
 - シークレットモードを使う( 通常の Chrome だとログインした後、Chrome を終了させてもログアウトされない )
 - 通常 Chrome でもサービスからログアウトさせる設定
+
+![image](https://user-images.githubusercontent.com/1501327/159151957-5b10baaf-a5a9-47c0-a427-25f0f4711f7d.png)
