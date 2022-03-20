@@ -14,3 +14,5 @@
 
 ## ブックマークの部分移動( 他の PC )
 ![image](https://user-images.githubusercontent.com/1501327/159151561-2a94e8e6-73fc-4089-a286-fb46933cd7fe.png)
+
+![image](https://user-images.githubusercontent.com/1501327/159151598-68dc7517-3415-47b4-87f0-f4060f55a3b3.png)
