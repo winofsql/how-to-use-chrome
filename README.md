@@ -11,3 +11,6 @@
 
 ▼ アプリのように呼び出す\
 ![image](https://user-images.githubusercontent.com/1501327/159151474-5cd06b5e-2387-4fac-87f2-1daffd68c35a.png)
+
+## ブックマークの部分移動( 他の PC )
+![image](https://user-images.githubusercontent.com/1501327/159151561-2a94e8e6-73fc-4089-a286-fb46933cd7fe.png)
