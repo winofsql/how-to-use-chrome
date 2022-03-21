@@ -1,6 +1,6 @@
-## ホームボタン
+## ホームボタン と ブークマークバー
 
-![image](https://user-images.githubusercontent.com/1501327/159152405-981a888b-2abd-4f5a-92b2-75cbe9e47785.png)
+![image](https://user-images.githubusercontent.com/1501327/159197162-9a8f82df-188f-4172-a6c2-34a3f284bb98.png)
 
 ## ダウンロード
 
