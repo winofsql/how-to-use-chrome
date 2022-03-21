@@ -13,7 +13,7 @@
 ![image](https://user-images.githubusercontent.com/1501327/159151474-5cd06b5e-2387-4fac-87f2-1daffd68c35a.png)
 
 ## ブックマークの部分移動( 他の PC )
-![image](https://user-images.githubusercontent.com/1501327/159151561-2a94e8e6-73fc-4089-a286-fb46933cd7fe.png)
+![image](https://user-images.githubusercontent.com/1501327/159196804-89582f06-fd8b-486b-aa39-ec6829b02397.png)
 
 ![image](https://user-images.githubusercontent.com/1501327/159151598-68dc7517-3415-47b4-87f0-f4060f55a3b3.png)
 
