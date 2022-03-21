@@ -30,7 +30,7 @@
 
 ![image](https://user-images.githubusercontent.com/1501327/159151981-356f06be-740b-40ef-a694-ededd9dc0455.png)
 
-![image](https://user-images.githubusercontent.com/1501327/159152023-16093034-a1bf-49af-b073-dca30767884b.png)
+![image](https://user-images.githubusercontent.com/1501327/159196889-34abac2b-5323-44c1-a755-9b8e3fa31787.png)
 
 ## キャッシュの削除
 
