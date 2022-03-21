@@ -34,6 +34,6 @@
 
 ## キャッシュの削除
 
-- CTRL + SHIFT + DEL
+- CTRL + SHIFT + DEL ( Edge や Firefox でも同様のダイアログが開きます )
 
 ![image](https://user-images.githubusercontent.com/1501327/159152522-3d0b96a7-31fc-43f3-917d-2b6b98045a28.png)
