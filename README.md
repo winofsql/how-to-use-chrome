@@ -3,8 +3,6 @@
 ## WEBページの取得( 動作可能 )
 ![image](https://user-images.githubusercontent.com/1501327/159196113-f689e29b-093a-4086-b3ae-fcece7538620.png)
 
-![image](https://user-images.githubusercontent.com/1501327/159151183-e3d5397e-72f2-4a5f-b09d-f659b6624b89.png)
-
 ## ショートカットをデスクトップに作成
 - Chrome の通常呼び出し
 - アプリのようにアドレスバー無しで呼び出し
