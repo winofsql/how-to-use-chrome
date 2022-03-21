@@ -4,4 +4,4 @@
 
 ## ダウンロード
 
-![image](https://user-images.githubusercontent.com/1501327/159152481-84d8eb8d-b6c8-475e-bf86-7162f843ec46.png)
+![image](https://user-images.githubusercontent.com/1501327/159197211-e3330134-6e12-478e-99d4-4473922ffeab.png)
